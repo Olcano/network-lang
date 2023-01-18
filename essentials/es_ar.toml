@@ -1,0 +1,29 @@
+player-joined= "&a¡El jugador %s &a entro al servidor!"
+welcome= "&e¡Bienvenido al servidor %s!"
+
+no-yet= "&c¡Este link no ha sido establecido!"
+
+visit= "&fVisia nuestra pagina de %s&f &o&a"
+
+store= "&d¡Visita nuestra tienda y adquiere cosas para verte más genial! &o&b%s"
+
+returned-to-lobby= "&7¡Regresaste al lobby!"
+
+server-rules-head= "REGLAS DEL SERVIDOR"
+server-rules-body= "1) Ejemplo uno. 2) Ejemplo dos"
+
+in-stream= "&7¡&d%s &7 esta en stream! &r%s"
+
+report-a-player= "REPORTA UN JUGADOR"
+report-cancelled= "&c¡Tu reporte fue cancelado!"
+report= "REPORTAR A %s"
+confirm-report= "CONFIRMA TU REPORTE"
+reported= "Reportado"
+player-reported= "&c[!] %s&7 reporto a &c%s&7 por &e'%s'"
+report-success= "&a¡Tu reporte fue enviado con exito!"
+
+reason= "Razon"
+your-reason-here= "Escribe la razon aqui"
+enter-a-valid-reason= "&c¡Por favor introduce una razon valida!"
+
+player-offline= "&c¡El jugador %s no esta conectado!"

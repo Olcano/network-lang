@@ -1,9 +1,10 @@
-player-joined= "&a¡El jugador %s &a entro al servidor!"
-welcome= "&e¡Bienvenido al servidor %s!"
+player-joined= "&a¡El jugador %s&a entro al servidor!"
+welcome-player= "&e¡Bienvenido al servidor %s!"
+welcome-to= "&7Bienvenido a"
 
-no-yet= "&c¡Este link no ha sido establecido!"
+no-link-yet= "&c¡Este link no ha sido establecido!"
 
-visit= "&fVisia nuestra pagina de %s&f &o&a"
+visit= "&fVisita nuestra pagina de %s &o&a%s"
 
 store= "&d¡Visita nuestra tienda y adquiere cosas para verte más genial! &o&b%s"
 
@@ -21,9 +22,12 @@ confirm-report= "CONFIRMA TU REPORTE"
 reported= "Reportado"
 player-reported= "&c[!] %s&7 reporto a &c%s&7 por &e'%s'"
 report-success= "&a¡Tu reporte fue enviado con exito!"
+no-players-to-report= "&c¡No hay jugadores para reportar!"
 
 reason= "Razon"
 your-reason-here= "Escribe la razon aqui"
 enter-a-valid-reason= "&c¡Por favor introduce una razon valida!"
 
 player-offline= "&c¡El jugador %s no esta conectado!"
+
+usage= "&cUso: %s"

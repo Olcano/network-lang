@@ -1,4 +1,4 @@
-player-joined= "&aThe player %s &a joined the server!"
+player-joined= "&aThe player %s &r&ajoined the server!"
 welcome-player= "&eWelcome to server %s!"
 welcome-to= "&7Welcome to"
 
@@ -10,19 +10,28 @@ store= "&dVisit our store and get stuff to look cooler! &o&b%s"
 
 returned-to-lobby= "&7You're back in the lobby!"
 
+server-info-head= "SERVER INFO"
+server-info-body= ""
+
+rules= "Rules"
 server-rules-head= "SERVER RULES"
 server-rules-body= "1) Example one. 2) Example two."
 
-in-stream= "&7¡&d%s &7 is in stream! &r%s"
+ranks= "Ranks"
+server-ranks-head= "SERVER RANKS"
+server-ranks-body= "1) Example one. 2) Example two."
+
+in-stream= "&7¡&d%s &7is in stream! &r%s"
 
 report-a-player= "REPORT A PLAYER"
 report-cancelled= "&cYour report was cancelled!"
 report= "REPORT A %s"
 confirm-report= "CONFIRM YOUR REPORT"
 reported= "Reported"
-player-reported= "&c[!] %s&7 reported to &c%s&7 for &e'%s'"
+player-reported= "&c[!] %s&7 reported &c%s&7 for &e'%s'"
 report-success= "&aYour report was sent successfully!"
 no-players-to-report= "&cThere are no players to report!"
+cant-report-yourself= "&cYou can't report yourself"
 
 reason= "Reason"
 your-reason-here= "Type the reason here"
@@ -31,3 +40,6 @@ enter-a-valid-reason= "&cPlease enter a valid reason!"
 player-offline= "&cPlayer %s is not online!"
 
 usage= "&cUsage: %s"
+
+accept= "ACCEPT"
+cancel= "CANCEL"

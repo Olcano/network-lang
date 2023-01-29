@@ -1,6 +1,6 @@
-player-joined= "&aThe player %s &r&ajoined the server!"
+player-joined= "%s &r&ajoined the server!"
 welcome-player= "&eWelcome to server %s!"
-welcome-to= "&7Welcome to"
+welcome-to= "&fWelcome to"
 
 no-link-yet= "&cThis link has not been established!"
 

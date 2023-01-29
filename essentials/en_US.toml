@@ -1,6 +1,6 @@
 player-joined= "%s &r&ajoined the server!"
 welcome-player= "&eWelcome to server %s!"
-welcome-to= "&fWelcome to"
+welcome-to= "&fWelcome to %s"
 
 no-link-yet= "&cThis link has not been established!"
 
@@ -43,3 +43,17 @@ usage= "&cUsage: %s"
 
 accept= "ACCEPT"
 cancel= "CANCEL"
+
+un-nicked= "&cYou have been un-nicked (%s -> %s)"
+nicked= "&aYou have been nicked (%s -> %s)"
+you-are-nicked= "&cYOU ARE NICKED"
+
+you-are-playing= "&l&eYOU ARE PLAYING ON %s"
+
+afk= "&cYou have been kicked from the server for inactivity"
+
+un-skin= "&cYour skin has been removed"
+searching-skin= "&aWe are looking for the %s skin"
+searching-random-skin= "&aWe are looking for a random skin"
+skin-failed= "&cSkin not found"
+skin= "&aThe new skin was put on!"

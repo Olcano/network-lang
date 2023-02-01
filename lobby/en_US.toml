@@ -1,0 +1,9 @@
+player-joined= "%s &r&ajoined the server!"
+welcome-player= "&eWelcome to server %s!"
+welcome-to= "&fWelcome to %s"
+
+you-are-nicked= "&cYOU ARE NICKED"
+
+name= "Name"
+rank= "Rank"
+online= "Online"

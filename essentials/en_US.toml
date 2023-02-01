@@ -1,7 +1,3 @@
-player-joined= "%s &r&ajoined the server!"
-welcome-player= "&eWelcome to server %s!"
-welcome-to= "&fWelcome to %s"
-
 no-link-yet= "&cThis link has not been established!"
 
 visit= "&fVisit our %s &fpage &o&a%s"
@@ -46,9 +42,6 @@ cancel= "CANCEL"
 
 un-nicked= "&cYou have been un-nicked (%s -> %s)"
 nicked= "&aYou have been nicked (%s -> %s)"
-you-are-nicked= "&cYOU ARE NICKED"
-
-you-are-playing= "&l&eYOU ARE PLAYING ON %s"
 
 afk= "&cYou have been kicked from the server for inactivity"
 
@@ -57,3 +50,29 @@ searching-skin= "&aWe are looking for the %s skin"
 searching-random-skin= "&aWe are looking for a random skin"
 skin-failed= "&cSkin not found"
 skin= "&aThe new skin was put on!"
+
+coming-soon= "&cComing Soon"
+new= "&l&bNEW!"
+
+navigator= "NAVIGATOR"
+
+use-in-lobby= "&cUse this in lobby"
+
+fly-enabled= "&aFly enabled"
+fly-disabled= "&cFly disabled"
+
+queued= "&bYou have queued for &6%s"
+player-join= "&a> %s&r &7joined the queue!"
+player-left= "&c> %s&r &7came out of the queue!"
+queue-info= "&6Queued for &b%s &f(%s%s/%s&r) &f[%s&r | &7%s&r]"
+removed-previous-queue= "&cYou have been removed from your previous queue!"
+error-searching-queue= "&cError looking for a queue!"
+no-queue-found= "&cNo queue found with that access code!"
+private= "PRIVATE"
+public= "PUBLIC"
+already-in-queue= "&cYou are already in a queue for that game!"
+no-in-queue= "&cYou are not in queue!"
+left-queue= "&cYou left the queue"
+game-no-exist= "&cThat kind of game doesn't exist!"
+you-create-queue= "&aYou created a new queue, type /queue %s in chat to join!"
+already-in-this-queue= "&cYou are aldready in this queue!"

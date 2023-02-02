@@ -76,3 +76,8 @@ left-queue= "&cYou left the queue"
 game-no-exist= "&cThat kind of game doesn't exist!"
 you-create-queue= "&aYou created a new queue, type /queue %s in chat to join!"
 already-in-this-queue= "&cYou are aldready in this queue!"
+no-enough-players= "&4The game has been paused because it does not have the necessary players"
+queue-start-in= "&aThe game will start in %s &aseconds!"
+go= "&l&bGo!"
+game-started-good-luck= "&o&7The game has started, good luck!"
+

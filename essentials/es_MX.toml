@@ -80,4 +80,15 @@ no-enough-players= "&4The game has been paused because it does not have the nece
 queue-start-in= "&aThe game will start in %s &aseconds!"
 go= "&l&bGo!"
 game-started-good-luck= "&o&7The game has started, good luck!"
+random= "RANDOM"
+there-no-maps= "&cQueue has been removed due to no maps!"
+map-winner-header= "&a%s Map"
+map-winner-footer= "&7By %s"
+generating-map= "&dGenerating map"
 
+seconds-to-end= "&cThe game will be over in %s seconds!"
+
+map-vote-closed= "&cMap voting is over!"
+already-vote= "&cYou already voted!"
+map-vote-success= "&aYou voted for map &7%s"
+map-vote= "MAP VOTE"

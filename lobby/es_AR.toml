@@ -4,6 +4,6 @@ welcome-to= "&fWelcome to %s"
 
 you-are-nicked= "&cYOU ARE NICKED"
 
-name= "Name"
-rank= "Rank"
-online= "Online"
+name= "Name: %s"
+rank= "Rank: %s"
+online= "Online: &a%s"

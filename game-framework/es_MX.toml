@@ -40,3 +40,7 @@ no-winners-footer= "&7No winners"
 you-assisted= "&eYou assisted to kill %s"
 killed-by= "&e%s &cwas killed by &e%s"
 died= "&e%s &cdied"
+
+map= "&cMap: &f%s"
+ends-in= "&cEnds in: &f%s"
+kills= "&6Kills: &f%s"

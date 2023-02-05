@@ -1,9 +1,13 @@
-player-joined= "%s &r&ajoined the server!"
-welcome-player= "&eWelcome to server %s!"
-welcome-to= "&fWelcome to %s"
+player-joined= "&8[&a+&8] &c%s &r&ajoined the server!"
+welcome-player= "&bWelcome to &6&lOlcano &r&b%s!%n&c&lRespect the rules and follow us on our social networks :)%n
+&dTikTok: @OlcanoMC%n
+&bTwitter: @OlcanoMC%n
+&cYouTube: @Olcano%n
+&9Discord: https://discord.gg/BwZwwKq"
+welcome-to= "&aWelcome"
 
 you-are-nicked= "&cYOU ARE NICKED"
 
-name= "Name: %s"
-rank= "Rank: %s"
+name= "Name: &c%s"
+rank= "Rank: &6%s"
 online= "Online: &a%s"

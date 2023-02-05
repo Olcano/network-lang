@@ -6,12 +6,12 @@ store= "&d¡Visita nuestra tienda y consigue cosas para estar más guay! &o&b%s"
 
 returned-to-lobby= "&7¡Has vuelto al vestíbulo!"
 
-server-info-head= "INFO DEL SERVIDOR"
+server-info-head= "INFORMACION DEL SERVIDOR"
 server-info-body= ""
 
 rules= "Reglas"
 server-rules-head= "REGLAS DEL SERVIDOR"
-server-rules-body= "1) Ejemplo uno. 2) Ejemplo dos."
+server-rules-body= "&e&lCumple las reglas para no ser sancioando%n &c&clESTA PROHIBIDO: &r&b1)&r El uso de hacks o aplicaciones de terceros parar beneficio propio.%n &cr&b2)&r Alterar apropósito tu ping para obtener ventajas.%n&b3)&r Abusar de bugs%n &r&b3)&r El racismo ,machismo, homofobia entre mas.%n&r&b4)&r Suplantar la identidad de alguien.%n&r&b5)&rInsultar, molestar a alguien o tener un mal comportamiento."
 
 ranks= "Rangos"
 server-ranks-head= "RANGOS DEL SERVIDOR"
@@ -40,16 +40,16 @@ usage= "&cUso: %s"
 accept= "ACEPTAR"
 cancel= "CANCELAR"
 
-un-nicked= "&cHas sido un-nick (%s -> %s)"
-nicked= "&aLe han hecho un nick (%s -> %s)"
+un-nicked= "&cHas vuelto a tu nombre original (%s -> %s)"
+nicked= "&aTe has cambiado el nombre (%s -> %s)"
 
 afk= "&cHas sido expulsado del servidor por inactividad"
 
-un-skin= "&cTu skin ha sido eliminado"
-searching-skin= "&aEstamos buscando el skin %s"
-searching-random-skin= "&aEstamos buscando una skin aleatoria"
-skin-failed= "&cPiel no encontrada"
-skin= "&a¡Se ha puesto el nuevo skin!"
+un-skin= "&cTu skin ha sido eliminada"
+searching-skin= "&aEstamos buscando el skin... %s"
+searching-random-skin= "&aEstamos buscando una skin aleatoria..."
+skin-failed= "&cSkin no encontrada"
+skin= "&a¡Se ha puesto tu nueva skin!"
 
 coming-soon= "&cPróximamente"
 new= "&l&b¡NUEVO!"

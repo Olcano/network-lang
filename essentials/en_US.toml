@@ -43,7 +43,7 @@ cancel= "CANCEL"
 un-nicked= "&cYou have reverted to your original name (%s -> %s)"
 nicked= "&aYou have changed your name (%s -> %s)"
 
-afk= "&cYou have been banned from the server for inactivity"
+afk= "&cYou have been kicked from the server for inactivity."
 
 un-skin= "&cYour skin has been removed"
 searching-skin= "&aWe are looking for the skin of %s"

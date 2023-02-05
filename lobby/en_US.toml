@@ -1,6 +1,6 @@
 player-joined= "&8[&a+&8] &6%s &r&ajoined the server!"
-welcome-player= "------------------------------------------------%n&bWelcome to &6&lOlcano &r&b%s!%n&c&lRespect the rules and follow us on our social networks :)%n%n&r&dTikTok: @OlcanoMC%n&r&bTwitter: @OlcanoMC%n&r&cYouTube: @Olcano%n&r&9Discord: https://discord.gg/BwZwwKq%n------------------------------------------------"
-welcome-to= "&aWelcome"
+welcome-player= "&3------------------------------------------------%n&bWelcome to &6&lOlcano &r&b%s!%n&c&lRespect the rules and follow us on our social networks :)%n%n&r&dTikTok: @OlcanoMC%n&r&bTwitter: @OlcanoMC%n&r&cYouTube: @Olcano%n&r&9Discord: https://discord.gg/BwZwwKq%n&3------------------------------------------------"
+welcome-to= "&aWelcome to%n %s"
 
 you-are-nicked= "&cYOU ARE NICKED"
 

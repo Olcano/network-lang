@@ -1,9 +1,9 @@
 player-joined= "&8[&a+&8] &c%s &r&ajoined the server!"
-welcome-player= "&bWelcome to &6&lOlcano &r&b%s!%n&c&lRespect the rules and follow us on our social networks :)%n&r&dTikTok: @OlcanoMC%n&r&bTwitter: @OlcanoMC%n&r&cYouTube: @Olcano%n&9&rDiscord: https://discord.gg/BwZwwKq"
+welcome-player= "&bWelcome to &6&lOlcano &r&b%s!%n&c&lRespect the rules and follow us on our social networks :)%n%n&r&dTikTok: @OlcanoMC%n&r&bTwitter: @OlcanoMC%n&r&cYouTube: @Olcano%n &9&rDiscord: https://discord.gg/BwZwwKq"
 welcome-to= "&aWelcome"
 
 you-are-nicked= "&cYOU ARE NICKED"
 
-name= "Name: &%s"
-rank= "Rank: &%s"
+name= "Name: %s"
+rank= "Rank: %s"
 online= "Online: %s"

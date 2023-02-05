@@ -1,9 +1,9 @@
-player-joined= "%s &r&ajoined the server!"
-welcome-player= "&eWelcome to server %s!"
-welcome-to= "&fWelcome to %s"
+player-joined= "¡%s &r&se ha unido al servidor!"
+welcome-player= "&e¡Bienvenido al servidor %s!"
+welcome-to= "&fBienvenido a %s"
 
-you-are-nicked= "&cYOU ARE NICKED"
+you-are-nicked= "&cCon Cambio de Nick"
 
-name= "Name: %s"
-rank= "Rank: %s"
-online= "Online: &a%s"
+name= "Nombre: %s"
+rank= "Rango: %s"
+online= "En línea: &a%s"

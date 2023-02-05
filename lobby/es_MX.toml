@@ -2,7 +2,7 @@ player-joined= "¡%s &r&se ha unido al servidor!"
 welcome-player= "&e¡Bienvenido al servidor %s!"
 welcome-to= "&fBienvenido a %s"
 
-you-are-nicked= "&cCon Cambio de Nick"
+you-are-nicked= "&cNick cambiado"
 
 name= "Nombre: %s"
 rank= "Rango: %s"

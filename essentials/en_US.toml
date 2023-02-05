@@ -10,7 +10,7 @@ server-info-head= "SERVER INFORMATION"
 server-info-body= ""
 
 rules= "Rules"
-server-rules-head= "SERVER RULES" server-rules-head= "SERVER RULES"
+server-rules-head= "SERVER RULES"
 server-rules-body= "&e&lFollow the rules to avoid being sanctioned%n&c&lIt IS PROHIBITED:%n%n%n&r&b1)&r The use of hacks or third party applications for your own benefit.%n&c&b2)&r Purposely altering your ping to gain advantages. %n&b3)&r Abusing bugs%n&r&b4)&r Racism, sexism, homophobia and more.%n&r&b5)&r Impersonating someone's identity.%n&r&b6)&rInsult, harassing or misbehaving."
 
 ranks= "ranks"

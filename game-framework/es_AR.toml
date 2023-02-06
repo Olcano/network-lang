@@ -47,5 +47,6 @@ kills= "&6Kills: &f%s"
 
 follow-a-player= "FOLLOW A PLAYER"
 cant-follow-yourself= "&cYou can't follow yourself"
-
 match-list= "MATCH LIST"
+
+game-npc-placed= "&aYou have placed the npc"

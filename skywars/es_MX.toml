@@ -1,3 +1,6 @@
 refilling= "&aRefilling chests"
 refill-in= "&cRefill in: &f%s"
+edge= "&cEdge: &f%s"
 airdrops-falling= "&bThe airdrops are falling!"
+off-the-edge= "&cYou're off the edge"
+edge-shrinking= "&bThe edge began to shrink"

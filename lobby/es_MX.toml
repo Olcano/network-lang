@@ -6,4 +6,4 @@ you-are-nicked= "&cNick cambiado"
 
 name= "Nombre: %s"
 rank= "Rango: %s"
-online= "En línea: %s"
+online= "En línea: &e%s"

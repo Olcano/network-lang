@@ -1,6 +1,6 @@
 queued= "&bYou have queued for &6%s"
-player-join= "&a> %s&r &7joined the queue!"
-player-left= "&c> %s&r &7came out of the queue!"
+queue-join= "&a> %s&r &7joined the queue!"
+queue-left= "&c> %s&r &7left the queue!"
 queue-info= "&6Queued for &b%s &f(%s%s/%s&r) &f[%s&r | &7%s&r]"
 removed-previous-queue= "&cYou have been removed from your previous queue!"
 error-searching-queue= "&cError looking for a queue!"
@@ -50,3 +50,11 @@ cant-follow-yourself= "&cYou can't follow yourself"
 match-list= "MATCH LIST"
 
 game-npc-placed= "&aYou have placed the npc"
+
+match-join= "&a> %s&r &fjoined &7(%s/%s)&f!"
+match-left= "&c> %s&r &fleft &7(%s/%s)&f!"
+
+error-creating-match= "&cError creating match. Try againg!"
+match-access-code= "&aYou entered a static game!. The access code is: %s"
+game-mode= "SELECT GAME MODE"
+map-no-exist= "&cThis map ceased to exist!"

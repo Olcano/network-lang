@@ -60,3 +60,5 @@ use-in-lobby= "&cUse this in lobby"
 
 fly-enabled= "&aFly enabled"
 fly-disabled= "&cFly disabled"
+
+where-is= "&9%s&7 is at &6X: %s, Y: %s, Z: %s, &e%s (%s)"

@@ -1,0 +1,64 @@
+no-link-yet = "&c¡Este enlace no se ha establecido!"
+
+visit = "&fSiguenos en %s &f: &o&a%s"
+
+store = "&d¡Visita nuestra tienda y consigue cosas para estar más guay! &o&b%s"
+
+returned-to-lobby = "&7¡Has vuelto al vestíbulo!"
+
+server-info-head = "INFORMACION DEL SERVIDOR"
+server-info-body = ""
+
+rules = "Reglas"
+server-rules-head = "REGLAS DEL SERVIDOR"
+server-rules-body = "&e&lCumple las reglas para no ser sancioando%n&c&lESTA PROHIBIDO:%n%n&r&b1)&r El uso de hacks o aplicaciones de terceros parar beneficio propio.%n&c&b2)&r Alterar apropósito tu ping para obtener ventajas.%n&b3)&r Abusar de bugs%n&r&b4)&r El racismo ,machismo, homofobia entre mas.%n&r&b5)&r Suplantar la identidad de alguien.%n&r&b6)&rInsultar, molestar a alguien o tener un mal comportamiento."
+
+ranks = "Rangos"
+server-ranks-head = "RANGOS DEL SERVIDOR"
+server-ranks-body = "1) Ejemplo uno. 2) Ejemplo dos."
+
+in-stream = "&7¡&d%s &7está en stream! &r%s"
+
+report-a-player = "REPORTAR UN JUGADOR"
+report-cancelled = "&c¡Su reporte ha sido cancelado!"
+report = "REPORT A %s"
+confirm-report = "CONFIRMA TU REPORTE"
+reported = "Jugador Reportado"
+player-reported = "&c[!]&b %s&7 a reportado a &c%s&7 por: &e'%s'"
+report-success = "&a¡Tu reporte se ha enviado correctamente!"
+no-players-to-report = "&c¡No hay jugadores para reportar!"
+cant-report-yourself = "&cNo puedes reportarte a ti mismo"
+
+reason = "Razón"
+your-reason-here = "Escribe aquí el motivo"
+enter-a-valid-reason = "&cPor favor, introduce una razón válida!"
+
+player-offline = "&c¡El jugador %s no está conectado!"
+
+usage = "&cUso: %s"
+
+accept = "ACEPTAR"
+cancel = "CANCELAR"
+
+un-nicked = "&cHas vuelto a tu nombre original (%s -> %s)"
+nicked = "&aTe has cambiado el nombre (%s -> %s)"
+
+afk = "&cHas sido expulsado del servidor por inactividad"
+
+un-skin = "&cTu skin ha sido eliminada"
+searching-skin = "&aEstamos buscando la skin de %s"
+searching-random-skin = "&aEstamos buscando una skin aleatoria..."
+skin-failed = "&cSkin no encontrada"
+skin = "&a¡Se ha puesto tu nueva skin!"
+
+coming-soon = "&cPróximamente"
+new = "&l&b¡NUEVO!"
+
+navigator = "NAVEGADOR"
+
+use-in-lobby = "&cUsa esto en el vestíbulo"
+
+fly-enabled = "&aVolar activado"
+fly-disabled = "&cVolar desactivado"
+
+where-is = "&9%s&7 esta en &6X: %s, Y: %s, Z: %s, &e%s (%s)"

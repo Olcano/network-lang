@@ -61,4 +61,4 @@ use-in-lobby = "&cUsa esto en el vestíbulo"
 fly-enabled = "&aVolar activado"
 fly-disabled = "&cVolar desactivado"
 
-where-is = "&9%s&7 is at &6X: %s, Y: %s, Z: %s, &e%s (%s)"
+where-is = "&9%s&7 esta en &6X: %s, Y: %s, Z: %s, &e%s (%s)"

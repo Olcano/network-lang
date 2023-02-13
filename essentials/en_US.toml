@@ -1,64 +1,64 @@
-no-link-yet= "&cThis link has not been established!"
+no-link-yet = "&cThis link has not been established!"
 
-visit= "&fFollow us on %s: &f &o&a%s"
+visit = "&fFollow us on %s: &f &o&a%s"
 
-store= "&dVisit our store and get stuff to be cooler! &o&b%s"
+store = "&dVisit our store and get stuff to be cooler! &o&b%s"
 
-returned-to-lobby= "&7You're back in the lobby!"
+returned-to-lobby = "&7You're back in the lobby!"
 
-server-info-head= "SERVER INFORMATION"
-server-info-body= ""
+server-info-head = "SERVER INFORMATION"
+server-info-body = ""
 
-rules= "Rules"
-server-rules-head= "SERVER RULES"
-server-rules-body= "&e&lFollow the rules to avoid being sanctioned%n&c&lIt IS PROHIBITED:%n%n%n&r&b1)&r The use of hacks or third party applications for your own benefit.%n&c&b2)&r Purposely altering your ping to gain advantages. %n&b3)&r Abusing bugs%n&r&b4)&r Racism, sexism, homophobia and more.%n&r&b5)&r Impersonating someone's identity.%n&r&b6)&rInsult, harassing or misbehaving."
+rules = "Rules"
+server-rules-head = "SERVER RULES"
+server-rules-body = "&e&lFollow the rules to avoid being sanctioned%n&c&lIt IS PROHIBITED:%n%n%n&r&b1)&r The use of hacks or third party applications for your own benefit.%n&c&b2)&r Purposely altering your ping to gain advantages. %n&b3)&r Abusing bugs%n&r&b4)&r Racism, sexism, homophobia and more.%n&r&b5)&r Impersonating someone's identity.%n&r&b6)&rInsult, harassing or misbehaving."
 
-ranks= "ranks"
-server-ranks-head= "SERVER RANKINGS"
-server-ranks-body= "1) Example one. 2) Example two."
+ranks = "ranks"
+server-ranks-head = "SERVER RANKINGS"
+server-ranks-body = "1) Example one. 2) Example two."
 
-in-stream= "&7¡&d%s &7is in stream! &r%s"
+in-stream = "&7¡&d%s &7is in stream! &r%s"
 
-report-a-player= "REPORT A PLAYER"
-report-cancelled= "&cYour report has been cancelled!"
-report= "REPORT A %s"
-confirm-report= "CONFIRM YOUR REPORT"
-reported= "Player Reported"
-player-reported= "&c[!]&b %s&7 has reported &c%s&7 by: &e'%s'"
-report-success= "&aYour report has been sent successfully!"
-no-players-to-report= "&cThere are no players to report!"
-cant-report-yourself= "&cYou can't report yourself!"
+report-a-player = "REPORT A PLAYER"
+report-cancelled = "&cYour report has been cancelled!"
+report = "REPORT A %s"
+confirm-report = "CONFIRM YOUR REPORT"
+reported = "Player Reported"
+player-reported = "&c[!]&b %s&7 has reported &c%s&7 by: &e'%s'"
+report-success = "&aYour report has been sent successfully!"
+no-players-to-report = "&cThere are no players to report!"
+cant-report-yourself = "&cYou can't report yourself!"
 
-reason= "Reason"
-your-reason-here= "Write your reason here"
-enter-a-valid-reason= "&cPlease enter a valid reason!"
+reason = "Reason"
+your-reason-here = "Write your reason here"
+enter-a-valid-reason = "&cPlease enter a valid reason!"
 
-player-offline= "&cPlayer %s is not online!"
+player-offline = "&cPlayer %s is not online!"
 
-usage= "&cUsage: %s"
+usage = "&cUsage: %s"
 
-accept= "ACCEPT"
-cancel= "CANCEL"
+accept = "ACCEPT"
+cancel = "CANCEL"
 
-un-nicked= "&cYou have reverted to your original name (%s -> %s)"
-nicked= "&aYou have changed your name (%s -> %s)"
+un-nicked = "&cYou have reverted to your original name (%s -> %s)"
+nicked = "&aYou have changed your name (%s -> %s)"
 
-afk= "&cYou have been kicked from the server for inactivity."
+afk = "&cYou have been kicked from the server for inactivity."
 
-un-skin= "&cYour skin has been removed"
-searching-skin= "&aWe are looking for the skin of %s"
-searching-random-skin= "&aWe are looking for a random skin..."
-skin-failed= "&cSkin not found"
-skin= "&aYour new skin has been set!"
+un-skin = "&cYour skin has been removed"
+searching-skin = "&aWe are looking for the skin of %s"
+searching-random-skin = "&aWe are looking for a random skin..."
+skin-failed = "&cSkin not found"
+skin = "&aYour new skin has been set!"
 
-coming-soon= "&cComing Soon"
-new= "&l&bNEW!"
+coming-soon = "&cComing Soon"
+new = "&l&bNEW!"
 
-navigator= "NAVIGATOR"
+navigator = "NAVIGATOR"
 
-use-in-lobby= "&cUse this in the lobby"
+use-in-lobby = "&cUse this in the lobby"
 
-fly-enabled= "&aFly enabled"
-fly-disabled= "&cFly disabled"
+fly-enabled = "&aFly enabled"
+fly-disabled = "&cFly disabled"
 
-where-is= "&9%s&7 is at &6X: %s, Y: %s, Z: %s, &e%s (%s)"
+where-is = "&9%s&7 is at &6X: %s, Y: %s, Z: %s, &e%s (%s)"

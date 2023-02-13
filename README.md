@@ -1,7 +1,9 @@
 # network-lang
+
 OlcanoMC language library
 
 ## Example
+
 Create file in directory /example/(country code).toml
 
 And all the translation is inside the quotes

@@ -1,64 +1,64 @@
-no-link-yet= "&cThis link has not been established!"
+no-link-yet = "&cThis link has not been established!"
 
-visit= "&fVisit our %s &fpage &o&a%s"
+visit = "&fVisit our %s &fpage &o&a%s"
 
-store= "&dVisit our store and get stuff to look cooler! &o&b%s"
+store = "&dVisit our store and get stuff to look cooler! &o&b%s"
 
-returned-to-lobby= "&7You're back in the lobby!"
+returned-to-lobby = "&7You're back in the lobby!"
 
-server-info-head= "SERVER INFO"
-server-info-body= ""
+server-info-head = "SERVER INFO"
+server-info-body = ""
 
-rules= "Rules"
-server-rules-head= "SERVER RULES"
-server-rules-body= "1) Example one. 2) Example two."
+rules = "Rules"
+server-rules-head = "SERVER RULES"
+server-rules-body = "1) Example one. 2) Example two."
 
-ranks= "Ranks"
-server-ranks-head= "SERVER RANKS"
-server-ranks-body= "1) Example one. 2) Example two."
+ranks = "Ranks"
+server-ranks-head = "SERVER RANKS"
+server-ranks-body = "1) Example one. 2) Example two."
 
-in-stream= "&7¡&d%s &7is in stream! &r%s"
+in-stream = "&7¡&d%s &7is in stream! &r%s"
 
-report-a-player= "REPORT A PLAYER"
-report-cancelled= "&cYour report was cancelled!"
-report= "REPORT A %s"
-confirm-report= "CONFIRM YOUR REPORT"
-reported= "Reported"
-player-reported= "&c[!] %s&7 reported &c%s&7 for &e'%s'"
-report-success= "&aYour report was sent successfully!"
-no-players-to-report= "&cThere are no players to report!"
-cant-report-yourself= "&cYou can't report yourself"
+report-a-player = "REPORT A PLAYER"
+report-cancelled = "&cYour report was cancelled!"
+report = "REPORT A %s"
+confirm-report = "CONFIRM YOUR REPORT"
+reported = "Reported"
+player-reported = "&c[!] %s&7 reported &c%s&7 for &e'%s'"
+report-success = "&aYour report was sent successfully!"
+no-players-to-report = "&cThere are no players to report!"
+cant-report-yourself = "&cYou can't report yourself"
 
-reason= "Reason"
-your-reason-here= "Type the reason here"
-enter-a-valid-reason= "&cPlease enter a valid reason!"
+reason = "Reason"
+your-reason-here = "Type the reason here"
+enter-a-valid-reason = "&cPlease enter a valid reason!"
 
-player-offline= "&cPlayer %s is not online!"
+player-offline = "&cPlayer %s is not online!"
 
-usage= "&cUsage: %s"
+usage = "&cUsage: %s"
 
-accept= "ACCEPT"
-cancel= "CANCEL"
+accept = "ACCEPT"
+cancel = "CANCEL"
 
-un-nicked= "&cYou have been un-nicked (%s -> %s)"
-nicked= "&aYou have been nicked (%s -> %s)"
+un-nicked = "&cYou have been un-nicked (%s -> %s)"
+nicked = "&aYou have been nicked (%s -> %s)"
 
-afk= "&cYou have been kicked from the server for inactivity"
+afk = "&cYou have been kicked from the server for inactivity"
 
-un-skin= "&cYour skin has been removed"
-searching-skin= "&aWe are looking for the %s skin"
-searching-random-skin= "&aWe are looking for a random skin"
-skin-failed= "&cSkin not found"
-skin= "&aThe new skin was put on!"
+un-skin = "&cYour skin has been removed"
+searching-skin = "&aWe are looking for the %s skin"
+searching-random-skin = "&aWe are looking for a random skin"
+skin-failed = "&cSkin not found"
+skin = "&aThe new skin was put on!"
 
-coming-soon= "&cComing Soon"
-new= "&l&bNEW!"
+coming-soon = "&cComing Soon"
+new = "&l&bNEW!"
 
-navigator= "NAVIGATOR"
+navigator = "NAVIGATOR"
 
-use-in-lobby= "&cUse this in lobby"
+use-in-lobby = "&cUse this in lobby"
 
-fly-enabled= "&aFly enabled"
-fly-disabled= "&cFly disabled"
+fly-enabled = "&aFly enabled"
+fly-disabled = "&cFly disabled"
 
-where-is= "&9%s&7 is at &6X: %s, Y: %s, Z: %s, &e%s (%s)"
+where-is = "&9%s&7 is at &6X: %s, Y: %s, Z: %s, &e%s (%s)"

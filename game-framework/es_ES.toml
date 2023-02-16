@@ -32,7 +32,7 @@ map-vote = "VOTA POR UN MAPA"
 
 won-game = "%s &r&aganó la partida!"
 
-forced-start = "¡%s &r&bforzó el inicio de la partida!"
+forced-start = "&b¡%s &r&bforzó el inicio de la partida!"
 queue-already-starting = "&c¡Esta cola ya está empezando!"
 game-over-header = "&l&6JUEGO TERMINADO"
 you-died-footer = "&7Has muerto"
@@ -43,7 +43,7 @@ died = "&e%s &cmurio"
 
 map = "&cMapa: &f%s"
 ends-in = "&cFinaliza en: &f%s"
-kills = "&6Muertes: &f%s"
+kills = "&6Asesinatos: &f%s"
 
 follow-a-player = "SEGUIR A UN JUGADOR"
 cant-follow-yourself = "&cNo puedes seguirte a ti mismo"

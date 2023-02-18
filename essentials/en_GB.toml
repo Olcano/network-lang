@@ -65,3 +65,5 @@ where-is = "&9%s&7 is at &6X: %s, Y: %s, Z: %s, YAW: %s, PITCH: %s, &e%s (%s)"
 
 nicked-players= "&l&6NICKED PLAYERS"
 there-no-nicked-players= "&cThere no nicked players!"
+
+collectibles= "COLLECTIBLES"

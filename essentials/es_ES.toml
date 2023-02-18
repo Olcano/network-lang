@@ -67,3 +67,11 @@ nicked-players= "&l&6NICKED PLAYERS"
 there-no-nicked-players= "&cThere no nicked players!"
 
 collectibles= "COLLECTIBLES"
+
+no-permission= "&cYou do not have permission to execute that action"
+
+disabled-doublejump= "&cYou disabled double jump"
+enabled-doublejump= "&aYou enabled double jump"
+
+skin-head= "SKIN"
+skin-nick-here= "Write the nick of the skin you want"

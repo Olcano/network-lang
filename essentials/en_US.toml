@@ -63,19 +63,19 @@ fly-disabled = "&cFly disabled"
 
 where-is = "&9%s&7 is at &6X: %s, Y: %s, Z: %s, YAW: %s, PITCH: %s, &e%s (%s)"
 
-nicked-players= "&l&6NICKED PLAYERS"
-there-no-nicked-players= "&cThere no nicked players!"
+nicked-players = "&l&6NICKED PLAYERS"
+there-no-nicked-players = "&cThere no nicked players!"
 
-collectibles= "COLLECTIBLES"
+collectibles = "COLLECTIBLES"
 
-no-permission= "&cYou do not have permission to execute that action"
+no-permission = "&cYou do not have permission to execute that action"
 
-disabled-doublejump= "&cYou disabled double jump"
-enabled-doublejump= "&aYou enabled double jump"
+disabled-doublejump = "&cYou disabled double jump"
+enabled-doublejump = "&aYou enabled double jump"
 
-skin-head= "SKIN"
-skin-nick-here= "Write the nick of the skin you want"
+skin-head = "SKIN"
+skin-nick-here = "Write the nick of the skin you want"
 
-wait-to-chat= "&cYou must wait %s seconds to write again in the chat"
-wait-to-command= "&cYou must wait %s seconds to rerun a command"
-cant-write-word= "&cYou cannot type the word '%s' in chat"
+wait-to-chat = "&cYou must wait %s seconds to write again in the chat"
+wait-to-command = "&cYou must wait %s seconds to rerun a command"
+cant-write-word = "&cYou cannot type the word '%s' in chat"

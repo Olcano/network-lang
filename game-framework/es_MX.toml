@@ -59,3 +59,5 @@ error-creating-match = "&cError al crear la partida. Intentalo de nuevo!"
 match-access-code = "&a¡Ha entrado en una partida! El código de acceso es: %s"
 game-mode = "SELECCIONAR MODO DE JUEGO"
 map-no-exist = "&c¡Este mapa ha dejado de existir!"
+
+you-are-in-queue= "&cYou are already in a queue!"

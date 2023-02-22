@@ -59,3 +59,5 @@ error-creating-match = "&cError creating match. Try againg!"
 match-access-code = "&aYou entered a static game!. The access code is: %s"
 game-mode = "SELECT GAME MODE"
 map-no-exist = "&cThis map ceased to exist!"
+
+you-are-in-queue= "&cYou are already in a queue!"

@@ -50,6 +50,7 @@ cant-follow-yourself = "&cNo puedes seguirte a ti mismo"
 match-list = "LISTA DE PARTIDAS"
 
 game-npc-placed = "&aHas colocado el npc"
+game-npc-deleted= "&cYou have removed the npc"
 
 match-join = "&a> %s&r &fse ha unido &7(%s/%s)&f!"
 match-left = "&c> %s&r &fse ha ido &7(%s/%s)&f!"

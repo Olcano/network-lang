@@ -50,6 +50,7 @@ cant-follow-yourself = "&cYou can't follow yourself"
 match-list = "MATCH LIST"
 
 game-npc-placed = "&aYou have placed the npc"
+game-npc-deleted= "&cYou have removed the npc"
 
 match-join = "&a> %s&r &fjoined &7(%s/%s)&f!"
 match-left = "&c> %s&r &fleft &7(%s/%s)&f!"

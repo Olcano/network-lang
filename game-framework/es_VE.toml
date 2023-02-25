@@ -50,7 +50,7 @@ cant-follow-yourself = "&cNo puedes seguirte a ti mismo"
 match-list = "LISTA DE PARTIDAS"
 
 game-npc-placed = "&aHas colocado el npc"
-game-npc-deleted= "&cYou have removed the npc"
+game-npc-deleted = "&cYou have removed the npc"
 
 match-join = "&a> %s&r &fse ha unido &7(%s/%s)&f!"
 match-left = "&c> %s&r &fse ha ido &7(%s/%s)&f!"
@@ -60,4 +60,4 @@ match-access-code = "&a¡Ha entrado en una partida! El código de acceso es: %s"
 game-mode = "SELECCIONAR MODO DE JUEGO"
 map-no-exist = "&c¡Este mapa ha dejado de existir!"
 
-you-are-in-queue= "&cYou are already in a queue!"
+you-are-in-queue = "&cYou are already in a queue!"

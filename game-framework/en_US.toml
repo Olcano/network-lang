@@ -50,7 +50,7 @@ cant-follow-yourself = "&cYou can't follow yourself"
 match-list = "MATCH LIST"
 
 game-npc-placed = "&aYou have placed the npc"
-game-npc-deleted= "&cYou have removed the npc"
+game-npc-deleted = "&cYou have removed the npc"
 
 match-join = "&a> %s&r &fjoined &7(%s/%s)&f!"
 match-left = "&c> %s&r &fleft &7(%s/%s)&f!"
@@ -60,4 +60,4 @@ match-access-code = "&aYou entered a static game!. The access code is: %s"
 game-mode = "SELECT GAME MODE"
 map-no-exist = "&cThis map ceased to exist!"
 
-you-are-in-queue= "&cYou are already in a queue!"
+you-are-in-queue = "&cYou are already in a queue!"

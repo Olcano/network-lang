@@ -61,3 +61,6 @@ game-mode = "SELECCIONAR MODO DE JUEGO"
 map-no-exist = "&c¡Este mapa ha dejado de existir!"
 
 you-are-in-queue = "&cYou are already in a queue!"
+
+user-in-pvp = "&c%s is in pvp with %s!. You have to wait if you want a pvp with him"
+you-are-in-pvp = "&cYou are in pvp with %s!. You have to wait if you want a pvp with him"

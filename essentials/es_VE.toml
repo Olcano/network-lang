@@ -79,3 +79,6 @@ skin-nick-here = "Write the nick of the skin you want"
 wait-to-chat = "&cYou must wait %s seconds to write again in the chat"
 wait-to-command = "&cYou must wait %s seconds to rerun a command"
 cant-write-word = "&cYou cannot type the word '%s' in chat"
+
+disabled-balloon = "&cYou disabled balloon"
+enabled-balloon = "&aYou enabled balloon"
